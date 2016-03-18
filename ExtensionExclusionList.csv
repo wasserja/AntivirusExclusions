@@ -1,0 +1,14 @@
+ExtensionName,ProductName
+vhd,Hyper-V
+vhdx,Hyper-V
+avhd,Hyper-V
+avhdx,Hyper-V
+vsv,Hyper-V
+iso,Hyper-V
+rct,Hyper-V
+vmcx,Hyper-V
+vmrs,Hyper-V
+mdb,SQL
+ldb,SQL
+ndf,SQL
+bak,SQL

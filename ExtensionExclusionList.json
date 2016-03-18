@@ -1,0 +1,8 @@
+{
+    "ExtensionExclusionList":[
+    {"ExtensionName":"VHD","ProductName":"Hyper-V"},
+    {"ExtensionName":"VHDX","ProductName":"Hyper-V"},
+    {"ExtensionName":"AVHD","ProductName":"Hyper-V"},
+    {"ExtensionName":""}
+    ]
+}

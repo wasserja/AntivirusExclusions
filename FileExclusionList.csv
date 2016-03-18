@@ -1,0 +1,27 @@
+FileName,ProductName
+ntds.dit,Active Directory
+ntds.pat,Active Directory
+${allusersprofile}\NTUser.pol,GroupPolicy
+${systemroot}\System32\GroupPolicy\Machine\registry.pol,GroupPolicy
+${systemroot}\System32\GroupPolicy\User\registry.pol,GroupPolicy
+${windir}\Security\database\*.chk,WindowsSecurity
+${windir}\Security\database\*.edb,WindowsSecurity
+${windir}\Security\database\*.jrs,WindowsSecurity
+${windir}\Security\database\*.log,WindowsSecurity
+${windir}\Security\database\*.sdb,WindowsSecurity
+${windir}\SoftwareDistribution\Datastore\*\Datastore.edb,WindowsUpdate
+${windir}\SoftwareDistribution\Datastore\*\edb.chk,WindowsUpdate
+${windir}\SoftwareDistribution\Datastore\*\edb*.log,WindowsUpdate
+${windir}\SoftwareDistribution\Datastore\*\Edb*.jrs,WindowsUpdate
+${windir}\SoftwareDistribution\Datastore\*\Res*.log,WindowsUpdate
+${systemroot}\System32\Wins\*.chk,WINS
+${systemroot}\System32\Wins\*.log,WINS
+${systemroot}\System32\Wins\*.mdb,WINS
+${systemroot}\System32\Dns\*.log,DNS
+${systemroot}\System32\Dns\*.dns,DNS
+${systemroot}\System32\Dns\BOOT,DNS
+${systemroot}\System32\DHCP\*.mdb,DHCP
+${systemroot}\System32\DHCP\*.pat,DHCP
+${systemroot}\System32\DHCP\*.log,DHCP
+${systemroot}\System32\DHCP\*.chk,DHCP
+${systemroot}\System32\DHCP\*.edb,DHCP
